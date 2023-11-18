@@ -43,9 +43,9 @@ function App() {
                   <Footer/>
             </div>
       </footer>
-   <div className="sticky z-200 left-0 right-0 bottom-6 ">
-      <Redeem/>
-   </div>
+      <div className="sticky z-200 left-0 right-0 -bottom-3 pb-3">
+            <Redeem/>
+      </div>
    
     
     </>
